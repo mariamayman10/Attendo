@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561617492146",
+    "project_id": "attendo-d6197",
+    "storage_bucket": "attendo-d6197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561617492146:android:ac3c0232f49b02fb4451ab",
+        "android_client_info": {
+          "package_name": "com.example.attendo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTb_d1QBk6SCdPd88MLaeVfFel2wU1r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
